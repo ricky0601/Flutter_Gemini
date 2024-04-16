@@ -31,7 +31,7 @@
 <details>
 <summary>ERD</summary>
 
-![ERD 설명](flenders.png)
+![ERD 설명](https://github.com/ricky0601/Flutter_Gemini/assets/119858304/2d41eb97-47aa-448b-a953-60326515763c)
 </details>
 
 ***
