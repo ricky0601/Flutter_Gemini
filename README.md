@@ -23,7 +23,7 @@
 
 ## :mag: Architecture
 
-![아키텍처 설명](architecture.png)
+![아키텍처 설명](https://github.com/ricky0601/Flutter_Gemini/assets/119858304/730d8ecf-24e5-42da-8fa8-a0f56a888a32)
 
 ***
 ## :floppy_disk: Database
